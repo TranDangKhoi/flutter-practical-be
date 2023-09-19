@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>sem4-flutter-exam</artifactId>
+    <artifactId>backend-flutter</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>sem4-flutter-exam</name>
-    <description>sem4-flutter-exam</description>
+    <name>backend-flutter</name>
+    <description>backend-flutter</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>

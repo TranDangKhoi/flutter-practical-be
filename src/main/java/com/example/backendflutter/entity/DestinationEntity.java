@@ -1,4 +1,4 @@
-package com.example.sem4flutterexam.entity;
+package com.example.backendflutter.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

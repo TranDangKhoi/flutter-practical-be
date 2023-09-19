@@ -1,10 +1,10 @@
-package com.example.sem4flutterexam;
+package com.example.backendflutter;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Sem4FlutterExamApplicationTests {
+class backendflutterApplicationTests {
 
     @Test
     void contextLoads() {

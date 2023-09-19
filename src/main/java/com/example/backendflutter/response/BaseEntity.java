@@ -1,4 +1,4 @@
-package com.example.sem4flutterexam.response;
+package com.example.backendflutter.response;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
