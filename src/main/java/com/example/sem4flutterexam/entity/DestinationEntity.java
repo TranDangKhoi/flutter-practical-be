@@ -8,7 +8,7 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 public class PlaceEntity {
-    private String placeName;
-    private String imageUrl;
-    private double rating;
+    private String destinationName;
+    private String destinationThumbnail;
+    private double destinationRating;
 }
